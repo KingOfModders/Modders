@@ -1,6 +1,6 @@
 [
   {
-    "id": "18e9922208ba7528",
+    "id": "*",
     "key": "GlobalV1",
     "expiresAt": "2026-09-30",
     "allowOffline": true,
@@ -20,7 +20,7 @@
     "key": "GlobalV3",
     "expiresAt": "2026-09-30",
     "allowOffline": true,
-    "trial": true,
+    "trial": false,
     "revoked": true
   }
 ]
