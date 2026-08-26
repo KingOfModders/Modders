@@ -2,69 +2,31 @@
   {
     "id": "*",
     "key": "1",
-    "expiresAt": "2026-08-30",
+    "expiresAt": "2026-09-30",
     "allowOffline": true,
+    "trial": true,
     "revoked": false,
-    "disabledReason": "Payment required. Please contact the administrator."
+    "disabledReason": "Payment required.",
+    "showDialog": false
   },
   {
-    "id": "*",
+    "id": "18e9922208ba7528",
     "key": "2",
-    "expiresAt": "2026-07-30",
+    "expiresAt": "2026-09-30",
     "allowOffline": true,
-    "revoked": true,
-    "disabledReason": "Payment required. Please contact the administrator."
-  },
-  {
-    "id": "*",
-    "key": "3",
-    "expiresAt": "2026-08-30",
-    "allowOffline": true,
-    "revoked": true,
-    "disabledReason": "Payment required. Please contact the administrator."
-  },
-  {
-    "id": "*",
-    "key": "4",
-    "expiresAt": "2026-08-25",
-    "allowOffline": true,
+    "trial": true,
     "revoked": false,
-    "disabledReason": "Payment required. Please contact the administrator."
+    "disabledReason": "Payment required.",
+    "showDialog": false
   },
   {
-  "id": "18e9922208ba7528",
-  "key": "5",
-  "expiresAt": "2026-09-30",
-  "allowOffline": true,
-  "trial": false,
-  "revoked": false,
-  "showDialog": false
-  },
-  {
-  "id": "18e9922208ba7528",
-  "key": "6",
-  "expiresAt": "2026-09-30",
-  "allowOffline": false,
-  "trial": false,
-  "revoked": false,
-  "showDialog": false
-  },
-  {
-  "id": "18e9922208ba7528",
-  "key": "7",
-  "expiresAt": "2026-09-30",
-  "allowOffline": true,
-  "trial": false,
-  "revoked": false,
-  "showDialog": true
-  },
-  {
-  "id": "18e9922208ba7528",
-  "key": "8",
-  "expiresAt": "2026-09-30",
-  "allowOffline": true,
-  "trial": false,
-  "revoked": true,
-  "showDialog": false
+    "id": "18e9922208ba7528",
+    "key": "3",
+    "expiresAt": "2026-09-25",
+    "allowOffline": true,
+    "trial": true,
+    "revoked": false,
+    "disabledReason": "Payment required.",
+    "showDialog": false
   }
 ]
