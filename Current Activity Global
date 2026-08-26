@@ -1,26 +1,8 @@
-[
-  {
-    "id": "*",
-    "key": "GlobalV1",
-    "expiresAt": "2026-09-30",
-    "allowOffline": true,
-    "trial": true,
-    "revoked": false
-  },
-  {
-    "id": "18e9922208ba7528",
-    "key": "GlobalV2",
-    "expiresAt": "2026-09-30",
-    "allowOffline": true,
-    "trial": false,
-    "revoked": false
-  },
-  {
-    "id": "18e9922208ba7528",
-    "key": "GlobalV3",
-    "expiresAt": "2026-09-30",
-    "allowOffline": true,
-    "trial": false,
-    "revoked": true
-  }
-]
+{
+  "id": "*",
+  "key": "GlobalV1",
+  "expiresAt": "2026-09-30",
+  "allowOffline": true,
+  "trial": true,
+  "revoked": false
+}
