@@ -14,7 +14,7 @@
     "key": "2",
     "expiresAt": "2026-09-30",
     "allowOffline": true,
-    "trial": true,
+    "trial": false,
     "revoked": false,
     "disabledReason": "Payment required.",
     "showDialog": false
@@ -24,7 +24,7 @@
     "key": "3",
     "expiresAt": "2026-09-25",
     "allowOffline": true,
-    "trial": true,
+    "trial": false,
     "revoked": false,
     "disabledReason": "Payment required.",
     "showDialog": false
