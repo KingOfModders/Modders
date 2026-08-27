@@ -21,8 +21,18 @@
   },
   {
     "id": "18e9922208ba7528",
+    "key": "4",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true,
+    "trial": false,
+    "revoked": true,
+    "disabledReason": "Payment required.",
+    "showDialog": false
+  },
+  {
+    "id": "18e9922208ba7528",
     "key": "3",
-    "expiresAt": "2026-09-25",
+    "expiresAt": "2026-08-25",
     "allowOffline": true,
     "trial": false,
     "revoked": false,
