@@ -42,8 +42,8 @@
   {
     "id": "18e9922208ba7528",
     "key": "6",
-    "expiresAt": "2026-8-20",
-    "allowOffline": true,
+    "expiresAt": "2026-8-30",
+    "allowOffline": false,
     "trial": false,
     "revoked": false,
     "disabledReason": "Payment required.",
