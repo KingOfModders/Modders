@@ -12,7 +12,7 @@
   {
     "id": "*",
     "key": "8",
-    "expiresAt": "2026-09-30",
+    "expiresAt": "2026-09-20",
     "allowOffline": true,
     "trial": true,
     "revoked": false,
