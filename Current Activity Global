@@ -5,14 +5,14 @@
     "expiresAt": "2026-09-30",
     "allowOffline": true,
     "trial": true,
-    "revoked": false,
+    "revoked": true,
     "disabledReason": "Payment required.",
     "showDialog": false
   },
   {
     "id": "*",
     "key": "8",
-    "expiresAt": "2026-08-20",
+    "expiresAt": "2026-08-30",
     "allowOffline": true,
     "trial": true,
     "revoked": false,
