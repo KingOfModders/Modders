@@ -10,6 +10,16 @@
     "showDialog": false
   },
   {
+    "id": "*",
+    "key": "8",
+    "expiresAt": "2026-09-30",
+    "allowOffline": true,
+    "trial": true,
+    "revoked": false,
+    "disabledReason": "Payment required.",
+    "showDialog": false
+  },
+  {
     "id": "18e9922208ba7528",
     "key": "2",
     "expiresAt": "2026-09-30",
@@ -42,7 +52,17 @@
   {
     "id": "18e9922208ba7528",
     "key": "6",
-    "expiresAt": "2026-8-20",
+    "expiresAt": "2026-8-30",
+    "allowOffline": true,
+    "trial": false,
+    "revoked": false,
+    "disabledReason": "Payment required.",
+    "showDialog": false
+  },
+  {
+    "id": "18e9922208ba7528",
+    "key": "7",
+    "expiresAt": "2026-8-29",
     "allowOffline": true,
     "trial": false,
     "revoked": false,
