@@ -1,7 +1,7 @@
 [
   {
     "id": "*",
-    "key": "1",
+    "key": "DSModsOfficial",
     "expiresAt": "2026-09-30",
     "allowOffline": true,
     "trial": true,
@@ -10,8 +10,8 @@
     "showDialog": false
   },
   {
-    "id": "18e9922208ba7528",
-    "key": "2",
+    "id": "",
+    "key": "",
     "expiresAt": "2026-09-30",
     "allowOffline": true,
     "trial": false,
