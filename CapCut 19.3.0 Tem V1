@@ -8,5 +8,25 @@
     "revoked": false,
     "disabledReason": "Payment required.",
     "showDialog": false
+  },
+  {
+    "id": "b1ffbb968760a458",
+    "key": "RM",
+    "expiresAt": "2026-10-05",
+    "allowOffline": true,
+    "trial": false,
+    "revoked": false,
+    "disabledReason": "Payment required.",
+    "showDialog": false
+  },
+  {
+    "id": "a56cff10141bc61d",
+    "key": "RM",
+    "expiresAt": "2026-10-05",
+    "allowOffline": true,
+    "trial": false,
+    "revoked": false,
+    "disabledReason": "Payment required.",
+    "showDialog": false
   }
 ]
