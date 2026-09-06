@@ -20,6 +20,16 @@
     "showDialog": false
   },
   {
+    "id": "aac09653a90b5ad1",
+    "key": "RM",
+    "expiresAt": "2026-10-06",
+    "allowOffline": true,
+    "trial": false,
+    "revoked": false,
+    "disabledReason": "Payment required.",
+    "showDialog": false
+  },
+  {
     "id": "a56cff10141bc61d",
     "key": "RM",
     "expiresAt": "2026-10-05",
