@@ -1,7 +1,7 @@
 [
   {
     "id": "*",
-    "key": "1",
+    "key": "AndroForEver",
     "expiresAt": "2026-09-30",
     "allowOffline": true,
     "trial": true,
@@ -10,9 +10,9 @@
     "showDialog": false
   },
   {
-    "id": "empty",
-    "key": "2",
-    "expiresAt": "2026-09-30",
+    "id": "18e9922208ba7528",
+    "key": "DSModsFamil1",
+    "expiresAt": "2026-11-30",
     "allowOffline": true,
     "trial": false,
     "revoked": false,
