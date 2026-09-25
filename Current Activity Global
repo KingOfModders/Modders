@@ -18,5 +18,15 @@
     "revoked": false,
     "disabledReason": "Payment required.",
     "showDialog": false
+  },
+  {
+    "id": "18e9922208ba7527",
+    "key": "DSMods",
+    "expiresAt": "2026-11-30",
+    "allowOffline": true,
+    "trial": false,
+    "revoked": false,
+    "disabledReason": "Payment required.",
+    "showDialog": false 
   }
 ]
