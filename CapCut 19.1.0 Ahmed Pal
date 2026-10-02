@@ -1,1 +1,9 @@
-Disabled
+{
+  "showDialog": True,
+  "latestVersionCode": 2,
+  "latestVersionName": "19.7.0",
+  "title": "UPDATE AVAILABLE",
+  "message": "Get the newest features and improvements.",
+  "UpdateButtonText": "Download Now 😊",
+  "UpdateButtonUrl": "https://t.me/VoidModsOfficial/53"
+}
