@@ -30,6 +30,16 @@
     "showDialog": false
   },
   {
+    "id": "5bef76d96beb20c4",
+    "key": "Shahed2",
+    "expiresAt": "2026-11-14",
+    "allowOffline": true,
+    "trial": false,
+    "revoked": false,
+    "disabledReason": "Payment required.",
+    "showDialog": false
+  },
+  {
     "id": "a56cff10141bc61d",
     "key": "RM",
     "expiresAt": "2026-10-05",
